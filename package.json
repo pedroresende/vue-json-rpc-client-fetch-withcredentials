@@ -1,6 +1,6 @@
 {
     "name": "vue-json-rpc-client-fetch-withcredentials",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A simple vue.js fetch based JSON RPC client written in ES6.",
     "main": "index.js",
     "scripts": {

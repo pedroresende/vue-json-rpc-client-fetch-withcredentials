@@ -1,6 +1,6 @@
 'use strict';
 
-import JsonRpcVueClient from 'js-json-rpc-client-withcredentials';
+import JsonRpcVueClient from 'json-rpc-client-fetch-withcredentials';
 
 export default {
   install: function(Vue, url = url, headers = {}, withcredentials = true, config = false) {
