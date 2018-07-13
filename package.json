@@ -1,6 +1,6 @@
 {
     "name": "vue-json-rpc-client-fetch-withcredentials",
-    "version": "1.0.4",
+    "version": "1.0.8",
     "description": "A simple vue.js fetch based JSON RPC client written in ES6.",
     "main": "index.js",
     "scripts": {
@@ -23,7 +23,7 @@
       "url": "https://github.com/pedroresende/vue-json-rpc-client-fetch-withcredentials/issues"
     },
     "dependencies": {
-        "json-rpc-client-fetch-withcredentials": "^0.3.3"
+        "json-rpc-client-fetch-withcredentials": "^0.3.5"
     },
     "homepage": "https://github.com/pedroresende/vue-json-rpc-client-fetch-withcredentials#readme"
   }
