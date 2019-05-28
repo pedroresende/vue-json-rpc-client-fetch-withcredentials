@@ -11,7 +11,7 @@ Open you `main.js` file and add the following
 ```javascript
 import JsonRpcVueClient from 'vue-json-rpc-client-fetch-withcredentials'
 
-Vue.use(JsonRpcVueClient, 'URL', 'CREDENTIALS', 'CONFIG');
+Vue.use(JsonRpcVueClient, 'URL', 'CREDENTIALS', 'NEWHEADERS', 'DEBUG');
 ```
 
 In your .vue file, to make a call just do it using
